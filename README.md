@@ -1,6 +1,6 @@
 # projectname
 
-A basic let-go application.
+A let-go library.
 
 ## Development
 
@@ -18,5 +18,4 @@ lgx test
 lgx fmt
 lgx lint
 lgx nrepl
-lgx build
 ```
